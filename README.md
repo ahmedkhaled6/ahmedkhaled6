@@ -50,20 +50,6 @@ Budapest, Hungary &nbsp;|&nbsp; Actively job hunting
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled6&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedKhaled6&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhaled6&layout=compact&theme=tokyonight&hide_border=true" alt="Ahmed's Top Languages" height="165"/>
-
-</div>
-
----
-
 ## Featured Projects
 
 ### BreatheAir &ndash; Cloud-Native AI Air Quality Platform
